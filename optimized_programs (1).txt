@@ -1,0 +1,62 @@
+Optimized Python Programs - Lab Reference
+All 10 programs optimized for minimum lines while preserving identical output. Verified and tested.
+
+1. Tic-Tac-Toe using DFS (Minimax)
+
+Expected Output (sample game):
+
+
+2. 8-Puzzle Solvability Check
+
+
+
+Expected Output (sample input: 1 2 3 4 5 6 7 8 0 | 1 2 3 4 5 6 8 7 0):
+
+
+3. Predicate Logic - Voting Eligibility
+
+Expected Output:
+
+
+
+
+4. Find-S and Candidate Elimination
+
+Expected Output:
+
+
+5. ID3 Decision Tree (using Pandas)
+
+
+
+Expected Output:
+
+
+6. ID3 Decision Tree with Train/Test Split (Raw Lists)
+
+Expected Output (varies by shuffle):
+
+
+7. Types of Machine Learning (Demo)
+
+
+Expected Output:
+
+
+8. Find-S and Candidate Elimination (Short Dataset)
+
+
+Expected Output:
+
+
+9. Linear Regression (Normal Equation)
+
+Expected Output:
+
+
+10. MNIST Mini Dataset (4x4 Digit Representation)
+
+
+
+Expected Output:
+
